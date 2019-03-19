@@ -1,5 +1,5 @@
 [package]
-name = "cargo-serve"
+name = "wasm-bindgen-runner"
 version = "0.1.0"
 authors = ["David Craven <david@craven.ch>"]
 edition = "2018"
